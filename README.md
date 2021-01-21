@@ -1,6 +1,6 @@
 # Test task by Done IT
 
-##Deploying the project:
+## Deploying the project:
 
 1) Clone the repository
 1) Upload a dump to the Database, which is located in api_done_it.sql
